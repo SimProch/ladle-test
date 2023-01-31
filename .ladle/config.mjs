@@ -1,5 +1,5 @@
 export default {
-  stories: ['**/*.stories.{ts,tsx}'],
+  stories: ['.ladle/introduction.stories.tsx'],
   outDir: 'ladle',
   defaultStory: 'introduction--default',
 };

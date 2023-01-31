@@ -4,5 +4,36 @@
     "github": "https://github.com/tajo/ladle",
     "version": 1
   },
-  "stories": {}
+  "stories": {
+    "introduction--default": {
+      "name": "Default",
+      "levels": [
+        "Introduction"
+      ],
+      "locStart": 4,
+      "locEnd": 37,
+      "filePath": ".ladle/introduction.stories.tsx",
+      "meta": {}
+    },
+    "introduction--default-story": {
+      "name": "Default story",
+      "levels": [
+        "Introduction"
+      ],
+      "locStart": 39,
+      "locEnd": 68,
+      "filePath": ".ladle/introduction.stories.tsx",
+      "meta": {}
+    },
+    "introduction--more-options": {
+      "name": "More options",
+      "levels": [
+        "Introduction"
+      ],
+      "locStart": 70,
+      "locEnd": 103,
+      "filePath": ".ladle/introduction.stories.tsx",
+      "meta": {}
+    }
+  }
 }
