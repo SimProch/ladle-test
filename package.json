@@ -1,0 +1,17 @@
+{
+  "name": "ladle-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "ladle": "ladle",
+    "ladle:serve": "ladle serve",
+    "ladle:build": "ladle build",
+    "ladle:preview": "ladle preview"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ladle/react": "^2.4.5"
+  }
+}
