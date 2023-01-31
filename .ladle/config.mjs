@@ -1,5 +1,5 @@
 export default {
   stories: ['.ladle/introduction.stories.tsx'],
-  outDir: 'ladle',
+  outDir: 'docs',
   defaultStory: 'introduction--default',
 };
